@@ -1,0 +1,8 @@
+
+{  
+  "connect_db":"mongodb://localhost:27017/sdirects",
+  "secret": "mytoken",
+  "adminEmail": "himanshurawat155@gmail.com",
+  "adminPassword": "8171630747Hr@"
+
+  }
